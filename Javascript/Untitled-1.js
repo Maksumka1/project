@@ -4,7 +4,7 @@
 // const nameUser = 'Ivan';
 // console.log(`Hi, ${nameUser}, nice to meet you!`);
 
-let drct = 10,
+let drct = 150,
 	mrtc = 10;
 
 
